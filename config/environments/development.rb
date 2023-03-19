@@ -68,6 +68,6 @@ Rails.application.configure do
   # Uncomment if you wish to allow Action Cable access from any origin.
   # config.action_cable.disable_request_forgery_protection = true
   config.action_mailer.default_url_options = { host: 'localhost', port: 3000 }
-  config.hosts << "8fb4-142-118-5-74.ngrok.io"
+  config.hosts << "1a67-142-118-5-74.ngrok.io"
 
 end
